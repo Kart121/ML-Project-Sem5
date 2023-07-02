@@ -12,4 +12,5 @@
 ![image](https://github.com/Karthik-PM/ML-Project-Sem5/assets/72903849/6755499b-d605-4312-a8b0-2bd9d28a2359)
 
 **best K-value for prediction** <br>
-![image](https://github.com/Karthik-PM/ML-Project-Sem5/assets/72903849/e2c09f70-ccb3-4df3-ae35-a4dbad5b0e83)
+![image](https://github.com/Karthik-PM/ML-Project-Sem5/assets/72903849/db6368e5-6e97-47b0-a2d4-dc52d04ce4f0)
+
